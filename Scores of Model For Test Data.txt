@@ -1,0 +1,4 @@
+f1_score of the model is  0.9969929836284664
+accuracy_score of the model is  0.9970326409495549
+precision_score of the model is  1.0
+recall_score of the model is  0.9940039973351099
